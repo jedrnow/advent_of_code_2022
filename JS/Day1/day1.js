@@ -1,3 +1,5 @@
+// --- Day 1: Calorie Counting ---
+
 const fs = require("fs");
 
 class Elf {
